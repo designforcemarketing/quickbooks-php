@@ -39,21 +39,11 @@ Please follow me on Twitter to be notified about updates/improvements:
 
 ## Support
 
-### Questions/general support 
+If you have questions, suggestions, or find a bug, the absolute best way to get support, report bugs, or ask for help is to ask on the forums:
 
-**Before you ask for help** make sure you: 
+- http://stackoverflow.com/ (This is the best place to get support -- *make sure you post your code*)
+- https://intuitpartnerplatform.lc.intuit.com/
 
-- If you're connecting to QuickBooks Online, run the `troubleshooting.php` script: <https://github.com/consolibyte/quickbooks-php/blob/master/docs/partner_platform/example_app_ipp_v3/troubleshooting.php>
-- Make sure you post your code - we can't help without seeing what you're doing.
-
-**Now** that you have the output of the `troubleshooting.php` script and your code together, ask in one of these two places: 
-
-- StackOverflow: <https://stackoverflow.com/questions/tagged/quickbooks> (This is the best place to get support)
-- Intuit Dev Forums: <https://help.developer.intuit.com/s/>
-
-### Bugs/pull requests 
-
-- GitHub: <https://github.com/consolibyte/quickbooks-php>
 
 ## Examples
 
